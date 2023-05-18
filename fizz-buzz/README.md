@@ -42,3 +42,5 @@ Buzz
 ## License
 
 This repository is licensed under the GNU General Public License v3.0. A copy of the license is available [here](../LICENSE.md)
+
+#### Thank you for your interest in this repository!
