@@ -16,7 +16,7 @@ To use the FizzBuzz script, follow these steps:
 7. The script will print the numbers from 1 to 100, following the FizzBuzz rules.
 
 ## Example Output
-'''bash
+```php
 1
 2
 Fizz
@@ -37,7 +37,7 @@ FizzBuzz
 98
 Fizz
 Buzz
-'''
+```
 
 ## License
 
