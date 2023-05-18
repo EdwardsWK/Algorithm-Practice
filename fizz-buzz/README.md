@@ -24,4 +24,4 @@ Each implementation can be run using the appropriate interpreter or compiler for
 
 ## License
 
-This repository is licensed under the GNU General Public License v3.0. A copy of the license is available [here](https://github.com/EdwardsWK/algorithm-practice/blob/main/LICENSE.md)
+This repository is licensed under the GNU General Public License v3.0. A copy of the license is available [here](../LICENSE.md)
