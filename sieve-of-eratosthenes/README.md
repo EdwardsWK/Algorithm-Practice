@@ -1,6 +1,6 @@
 # Prime Number Calculator
 
-This repository contains a PHP script that calculates prime numbers up to a specified limit. The code was created by myself, Wil K Edwards, as a practice exercise.
+This repository contains a PHP script that calculates prime numbers up to a specified limit. The code was created by myself, [Wil K Edwards](https://github.com/EdwardsWK), as a practice exercise.
 
 ## Usage
 
