@@ -4,7 +4,7 @@ This repository contains a PHP script that calculates prime numbers up to a spec
 
 ## License
 
-This project is licensed under the GNU General Public License v3.0. You can find the full license text in the [LICENSE](../main/LICENSE.md) file.
+This project is licensed under the GNU General Public License v3.0. You can find the full license text in the [LICENSE](../LICENSE.md) file.
 
 ## Usage
 
