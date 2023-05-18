@@ -16,7 +16,7 @@ To execute the script, open a terminal or command prompt and navigate to the dir
 
 ```bash
 php prime_numbers.php
-
+```
 The script will calculate and display the prime numbers up to the specified limit.
 
 ## Example
@@ -25,7 +25,7 @@ If you want to calculate prime numbers up to 1000, modify the script as follows:
 
 ```php
 $n = 1000; // Set the limit to 1000
-
+```
 Save the file and execute it using the command mentioned above. The script will output the prime numbers up to 1000.
 
 ## License
