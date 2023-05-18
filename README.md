@@ -1,5 +1,5 @@
-# Overview
-
+# Algorithm Practice
+## Overview
 This repository contains two scripts created by myself, [Wil K Edwards](https://github.com/EdwardsWK), as practice exercises to enhance my skills and understanding in programming algorithms. The scripts are as follows:
 
 ## Prime Number Calculator
