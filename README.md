@@ -5,10 +5,11 @@ This repository contains two scripts created by myself, [Wil K Edwards](https://
 ## Prime Number Calculator
 
 The "Prime Number Calculator" script is a PHP program that calculates prime numbers up to a specified limit.
+It utilises the 'Sieve of Erathosthenes' algorithm
 
-## FizzBuzz Solver
+## FizzBuzz
 
-The "FizzBuzz Solver" script provides solutions to the FizzBuzz problem in multiple programming languages.
+The "FizzBuzz" script provides solutions to the FizzBuzz problem in multiple programming languages.
 
 Please refer to the individual subdirectories for detailed information and usage instructions for each script.
 
