@@ -17,4 +17,4 @@ The "FizzBuzz" script provides solutions to the FizzBuzz problem in multiple pro
 
 This repository is licensed under the GNU General Public License v3.0. You can find the full license text in the [LICENSE](LICENSE) file.
 
-Thank you for your interest in this repository!
+#### Thank you for your interest in this repository!
