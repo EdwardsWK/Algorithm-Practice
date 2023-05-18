@@ -2,10 +2,6 @@
 
 This repository contains a PHP script that calculates prime numbers up to a specified limit. The code was created by myself, Wil K Edwards, as a practice exercise.
 
-## License
-
-This project is licensed under the GNU General Public License v3.0. You can find the full license text in the [LICENSE](../LICENSE.md) file.
-
 ## Usage
 
 To use the prime number calculator, follow these steps:
@@ -32,3 +28,6 @@ $n = 1000; // Set the limit to 1000
 
 Save the file and execute it using the command mentioned above. The script will output the prime numbers up to 1000.
 
+## License
+
+This project is licensed under the GNU General Public License v3.0. You can find the full license text in the [LICENSE](../LICENSE.md) file.
