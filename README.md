@@ -11,7 +11,7 @@ It utilises the 'Sieve of Erathosthenes' algorithm
 
 The "FizzBuzz" script provides solutions to the FizzBuzz problem in multiple programming languages.
 
-### Please refer to the individual subdirectories for detailed information and usage instructions for each script.
+#### Please refer to the individual subdirectories for detailed information and usage instructions for each script.
 
 ## License
 
