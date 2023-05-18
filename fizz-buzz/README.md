@@ -1,7 +1,7 @@
 # FizzBuzz
 
-This sub-repository contains my solution to the FizzBuzz problem.  
 The goal of the FizzBuzz problem is to write a program that prints the numbers from 1 to 100, but for multiples of three print "Fizz", and for the multiples of five print "Buzz". For numbers which are multiples of both three and five print "FizzBuzz".
+The code was created by myself, [Wil K Edwards](https://github.com/EdwardsWK), as a practice exercise.
 
 ## Usage
 
