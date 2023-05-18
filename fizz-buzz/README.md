@@ -1,7 +1,7 @@
 # FizzBuzz
 
-This sub-repository contains my solution to the FizzBuzz problem in multiple programming languages.  
-The goal of the FizzBuzz problem is to write a program that prints the numbers from 1 to 100, but for multiples of three print "Fizz" instead of the number and for the multiples of five print "Buzz". For numbers which are multiples of both three and five print "FizzBuzz".
+This sub-repository contains my solution to the FizzBuzz problem.  
+The goal of the FizzBuzz problem is to write a program that prints the numbers from 1 to 100, but for multiples of three print "Fizz", and for the multiples of five print "Buzz". For numbers which are multiples of both three and five print "FizzBuzz".
 
 ## Usage
 
