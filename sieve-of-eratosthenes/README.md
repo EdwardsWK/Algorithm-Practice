@@ -31,3 +31,5 @@ Save the file and execute it using the command mentioned above. The script will 
 ## License
 
 This project is licensed under the GNU General Public License v3.0. You can find the full license text in the [LICENSE](../LICENSE.md) file.
+
+#### Thank you for your interest in this repository!
